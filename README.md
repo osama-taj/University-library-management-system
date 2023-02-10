@@ -8,3 +8,6 @@ Adjusting the number of the book by increasing or decreasing it due to damage
 Knowing if the book is borrowed or available in the library
 Department of lending and return of books to students
 Recording financial fines against the student due to delay or damage to the book
+
+
+#screen shots
